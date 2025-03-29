@@ -1,2 +1,1 @@
-# flappybird-verdera
-panget toh
+# Flappy-Bird-Game with JavaScript
